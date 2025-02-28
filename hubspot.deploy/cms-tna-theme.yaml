@@ -2,11 +2,11 @@ team: hs-content-assets
 
 type: static_deployed_pointer
 
-description: Boilerplate Theme
+description: TNA - Design Criativo Theme
 
 artifactBuildMetadata:
-  repository: cms-theme-boilerplate
-  module: cms-theme-boilerplate
+  repository: cms-tna-theme
+  module: cms-tna-theme
 
 qaAutoDeployedBranches:
 - main
